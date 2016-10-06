@@ -1,0 +1,28 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Play with three.js and d3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinsswei/three-d3.git"
+  },
+  "keywords": [
+    "three.js",
+    "d3.js"
+  ],
+  "author": "Robinsswei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinsswei/three-d3/issues"
+  },
+  "homepage": "https://github.com/robinsswei/three-d3#readme",
+  "dependencies": {
+    "d3": "^4.2.6",
+    "jquery": "^3.1.1",
+    "three": "^0.81.2"
+  }
+}
